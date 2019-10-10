@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cost-Calculator/static/css/main.80344148.chunk.css",
-    "main.js": "/Cost-Calculator/static/js/main.bf729f7f.chunk.js",
-    "main.js.map": "/Cost-Calculator/static/js/main.bf729f7f.chunk.js.map",
+    "main.js": "/Cost-Calculator/static/js/main.c082a349.chunk.js",
+    "main.js.map": "/Cost-Calculator/static/js/main.c082a349.chunk.js.map",
     "runtime-main.js": "/Cost-Calculator/static/js/runtime-main.97d0a711.js",
     "runtime-main.js.map": "/Cost-Calculator/static/js/runtime-main.97d0a711.js.map",
     "static/js/2.f5d8e9a4.chunk.js": "/Cost-Calculator/static/js/2.f5d8e9a4.chunk.js",
     "static/js/2.f5d8e9a4.chunk.js.map": "/Cost-Calculator/static/js/2.f5d8e9a4.chunk.js.map",
     "index.html": "/Cost-Calculator/index.html",
-    "precache-manifest.e607ec1f430d59c61d06df64b26084b2.js": "/Cost-Calculator/precache-manifest.e607ec1f430d59c61d06df64b26084b2.js",
+    "precache-manifest.542928dcb282b5cf5c4cea594b48bf1e.js": "/Cost-Calculator/precache-manifest.542928dcb282b5cf5c4cea594b48bf1e.js",
     "service-worker.js": "/Cost-Calculator/service-worker.js",
     "static/css/main.80344148.chunk.css.map": "/Cost-Calculator/static/css/main.80344148.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.97d0a711.js",
     "static/js/2.f5d8e9a4.chunk.js",
     "static/css/main.80344148.chunk.css",
-    "static/js/main.bf729f7f.chunk.js"
+    "static/js/main.c082a349.chunk.js"
   ]
 }
